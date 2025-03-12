@@ -133,7 +133,7 @@ function enKucuk (sayilar){
   return enkucuk;
 }
 
-console.log(enKucuk(sayilar));
+//console.log(enKucuk(sayilar));
 
 // 3b çözümü:
 
